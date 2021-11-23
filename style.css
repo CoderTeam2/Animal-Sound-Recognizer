@@ -1,0 +1,21 @@
+#heading,#desp{
+    font-family: 'Comforter Brush', cursive;
+    color:black
+}
+#heading_div{
+    background-color: gray;
+    opacity: 0.8;
+}
+body{
+    background-color:lemonchiffon;
+}
+#desp{
+    font-size: 30px;
+}
+#heading{
+    top: 0px;
+    display: block;
+}
+button{
+    margin-top: 10px;
+}
